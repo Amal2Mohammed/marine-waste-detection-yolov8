@@ -32,6 +32,13 @@ The project used the Beach Garbage v2 dataset from Roboflow Universe.
 - Recall: 0.85
 - mAP@50: 0.91
 
+ ## Sample Detection Result
+
+The trained YOLOv8 model successfully detects marine waste in beach images and draws bounding boxes around detected objects.
+
+<img width="495" height="497" alt="image" src="https://github.com/user-attachments/assets/58b67035-5f1e-41a2-9152-da4874787434" />
+
+
 ## Technologies Used
 
 - Python
@@ -42,12 +49,6 @@ The project used the Beach Garbage v2 dataset from Roboflow Universe.
 - Roboflow
 - Matplotlib
 - NumPy
-
-  ## Sample Detection Result
-
-The trained YOLOv8 model successfully detects marine waste in beach images and draws bounding boxes around detected objects.
-
-<img width="495" height="497" alt="image" src="https://github.com/user-attachments/assets/58b67035-5f1e-41a2-9152-da4874787434" />
 
 
 ## Project Structure
